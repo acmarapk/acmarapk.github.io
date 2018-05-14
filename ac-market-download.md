@@ -47,6 +47,6 @@ Size: 5,5 MB<br />
 <h2>How To Install AC Market?</h2>
 <ol><li>First, you have to download the APK. In order to install the APK, first, you will have to change the security settings on your device. You just have to simply enable the ‘unknown sources’ option.</li>
 <li>Now download the APK file from your computer and extract its content from the zipped file.</li>
-<li>Select the ACMarket .apk file and email it to yourself so that you can open it form your android device.</li></li>
+<li>Select the ACMarket .apk file and email it to yourself so that you can open it form your android device.</li>
 <li>Download this file from your smartphone or any other android device and install it.</li>
 <li>Once the installation is done, you are ready to enjoy the modified games and apps.</li></ol>
